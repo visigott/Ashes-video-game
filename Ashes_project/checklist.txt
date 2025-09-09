@@ -1,0 +1,3 @@
+eklenecekler:
+-düşman tipleri
+-sesler

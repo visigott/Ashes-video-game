@@ -1,0 +1,5 @@
+32 bit pixel art character animation sprites sheets, dark undead royal guard knight with helmet (not hood), black armor, covered with blood, stained armor, evil, blasphemous, diabolical, white background, <lora:2D_Pixel_Sprites:1>
+Negative prompt: bad quality, worst quality, missing body parts, inverted body parts, bright colors, hood instead helmet, background color, dark background
+Steps: 25, Sampler: Euler a, CFG scale: 1.5, Seed: 1655983260, Size: 1800x450, Model hash: ec6f68ea63, Model: lyriel_v16, ControlNet 0: "Module: none, Model: control_v11p_sd15_openpose [cab727d4], Weight: 1.0, Resize Mode: Crop and Resize, Processor Res: 512, Threshold A: 0.5, Threshold B: 0.5, Guidance Start: 0.0, Guidance End: 1.0, Pixel Perfect: False, Control Mode: Balanced", Lora hashes: "2D_Pixel_Sprites: 847171bb842f", Version: v1.8.0
+
+Saved: 00037-1655983260.png
